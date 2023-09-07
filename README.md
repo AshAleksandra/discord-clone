@@ -1,6 +1,6 @@
-# Discord bot
+# Discord Clone
 
-This is a Discord bot application made with NextJS, TailwindCSS, Clerk and MySQL.
+This is a Discord clone application made with NextJS, TailwindCSS, Clerk, Prisma and MySQL.
 
 ## Setup
 
